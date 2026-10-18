@@ -1,0 +1,27 @@
+[
+  {
+    "name": "fecha_hora",
+    "type": "TIMESTAMP",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "temperatura_c",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "precipitacion_mm",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "viento_kmh",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "codigo_clima",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  }
+]
